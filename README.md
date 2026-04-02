@@ -69,25 +69,6 @@ This project demonstrates frontend development skills including UI design, state
 
 ---
 
-## 📁 Project Structure
-
-src/
-├── components/
-│ ├── Cards.jsx
-│ ├── Charts.jsx
-│ ├── Transactions.jsx
-│ ├── Roles.jsx
-│ ├── Insights.jsx
-│
-├── pages/
-│ ├── Dashboard.jsx
-│
-├── App.jsx
-├── main.jsx
-├── index.css
-
----
-
 ## 🎯 Approach
 
 The project was designed with a focus on simplicity, usability, and clean UI structure.
